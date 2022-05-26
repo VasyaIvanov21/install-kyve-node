@@ -1,3 +1,4 @@
+kyve1fvve8vaslaqacuwfqzrv423796gshk2xgqqn39
 # install-kyve-node
 
 Примерные требования к серверу
